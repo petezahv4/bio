@@ -11,4 +11,4 @@ Simple static HTML website for link-in-bio page.
 
 ## License
 
-MIT by Anurag Pramanik
+MIT by [Anurag Pramanik](mailto:p.anurag@outlook.com)
